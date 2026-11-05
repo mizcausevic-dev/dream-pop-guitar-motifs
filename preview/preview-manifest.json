@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dream-pop-guitar-motifs-simple-synth-preview.mp3",
+  "preview_sha256": "feaeb955cfbff8f5ea764f9cc9fe7e53abf54a46d5adbe9695d8e731a08faa79",
+  "source_midi_path": "midi/z5801-dream-pop-guitar-motifs-opening/z5801-dream-pop-guitar-motifs-opening-combined.mid",
+  "source_midi_sha256": "806d314221b890090ee83c18599179f059abc36f3654d317313f2fc12e929bb0",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5801",
+    "start_seconds": 0,
+    "end_seconds": 71.111
+  },
+  "measurement": {
+    "sample_peak": 0.111604,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

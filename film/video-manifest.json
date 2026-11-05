@@ -1,0 +1,26 @@
+{
+  "title": "Dream Pop Guitar Motifs",
+  "study": "z5801",
+  "bpm": 108,
+  "source_audio": "preview/dream-pop-guitar-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "feaeb955cfbff8f5ea764f9cc9fe7e53abf54a46d5adbe9695d8e731a08faa79",
+  "source_midi": "midi/z5801-dream-pop-guitar-motifs-opening/z5801-dream-pop-guitar-motifs-opening-combined.mid",
+  "source_midi_sha256": "806d314221b890090ee83c18599179f059abc36f3654d317313f2fc12e929bb0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e0c645a7a2f3eb4c40f4e04475080ea75dfed111cefb2aad3936e1f63339e6d8",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f31979e47a9d2912c127e02bd8bb3fa3fb4bfedf909f37ae4db900b74dcd000d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "571e9f47461498b37a1b73d3fe881b55089fcab229a45a97304cac8b27a3f3de",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

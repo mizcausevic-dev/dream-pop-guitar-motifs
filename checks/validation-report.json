@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:28.148309+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "421c8e38ae167102c2f0522f316b6876f30fd39be32233e0d3cc9abbc4a9a79e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6516d222e4459212c39056f9dac754c10e011ad0daf1963a9c42c588c64b862b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/drums.mid",
+      "bytes": 2641,
+      "sha256": "5be5a4b2c3d14ffba9079b03c11af4eb3ff500f085ba264fb085db298f44072e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "25cb401d4ee940d750eda043b969f3629f7cba7befae1357b2bb90063b1fd36b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b843a9f1dabdd6cc069792b145fe5abd9195e5e6fb6aef27ccc6c27d82ecb82b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c8962397dce6e0bea8fe09e8c0cdde181e76bc8aaa26e26df037b5a2c9cb83b8",
+      "errors": []
+    },
+    {
+      "path": "midi/z5801-dream-pop-guitar-motifs-opening/z5801-dream-pop-guitar-motifs-opening-combined.mid",
+      "bytes": 5674,
+      "sha256": "806d314221b890090ee83c18599179f059abc36f3654d317313f2fc12e929bb0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "e9c8ace349ceb3f8308f2be4f13dcc1d89c62a5870c2adf2a49e335c14b6026b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6b8b4fa010ed51431c4b17e8f8f774b81a30b52baa78dd09ed1f777cfb81423e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/drums.mid",
+      "bytes": 2641,
+      "sha256": "5be5a4b2c3d14ffba9079b03c11af4eb3ff500f085ba264fb085db298f44072e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "d9c4ec66c92c779ffe428936fe188c2724c7b3aa4b2b2da34486ad001d436e5a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "9b0360def042da1ce4e07f537bfe1948dabe1f8912435c12845f0db225ef8941",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a8a276e6f7a9af2821ffa384e02b64fbe3c295c124f27377138c50938c4af6b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z5802-dream-pop-guitar-motifs-variation/z5802-dream-pop-guitar-motifs-variation-combined.mid",
+      "bytes": 5674,
+      "sha256": "ed0b7163e7861d25816cf8b2a58f64df3ca13b0822421e2ab493ebcfa84fcc03",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "6898c5d03d57f47b155a84833a1d9a03abf0211deef58dcbd5d4b5e7b52b463e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4ea3460770007df366b67ed891bc3cee0fe4e1ca040f75ef38da91c5235fde47",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/drums.mid",
+      "bytes": 2641,
+      "sha256": "5be5a4b2c3d14ffba9079b03c11af4eb3ff500f085ba264fb085db298f44072e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "e3cb6b4cbde2c0366fad3b3cb7a82e96b4b69ecdb0aba75ff8668c5101041d40",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "f0ba7cb4597ca1a2a38a2e29f1811fb17687931bcfd0cec043305bc30254cfd9",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8b32923bde827b6715a24cb657766d801c2e0b65d8161690dbc97d97c1a9ac05",
+      "errors": []
+    },
+    {
+      "path": "midi/z5803-dream-pop-guitar-motifs-contrast/z5803-dream-pop-guitar-motifs-contrast-combined.mid",
+      "bytes": 5642,
+      "sha256": "ecb560e1414172d5708776589905ba7da266d8a890f41c7a3037be7033280c1a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "208f61f7f80aae52c351e89adaeaa9a53955eb85dafa79c6b1971830ef56b726",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "de5cbd0c3b3258d04bb7a73728e75a41883f6be5cbb80d42844a57c8e24c043a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/drums.mid",
+      "bytes": 2641,
+      "sha256": "5be5a4b2c3d14ffba9079b03c11af4eb3ff500f085ba264fb085db298f44072e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "4f41ee9c0ce7e895079925122d7fbad1f975241aa0965fee787e452813b04e86",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "98053a1607fa42b844b471611091732a63927d226a80658b53c9d308dec5dfa6",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "76ec6a2af43ccafe264320159f2c51fcfd46b7d02cab60c37a23408d987fb6ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z5804-dream-pop-guitar-motifs-return/z5804-dream-pop-guitar-motifs-return-combined.mid",
+      "bytes": 5642,
+      "sha256": "0fd711766f4f9ef37cbcbd8881600615a70ab2ad04b012a95c307ef95a5ac9d0",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
