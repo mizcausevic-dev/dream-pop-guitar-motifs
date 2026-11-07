@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dream-pop-guitar-motifs-midi.zip",
-      "bytes": 31561,
-      "sha256": "f86a70fcf04b6335b3308d4b7b51f8c147cdaf018c4dd1e1fbfb6ade9b92b06b"
+      "bytes": 32548,
+      "sha256": "827a06c52f3dcc8d243a9fccb11ee5b713ce229856181702f9f7c217ea1683f5"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "c55e6eac479276ed20cf27aa2e7e9346af1cfc75894b3a70c6627628f78be15a"
+      "bytes": 10186,
+      "sha256": "74f934786e8889a69478c38e13eb7530d01a276cf5d4647c94ccc12911401da9"
     },
     {
       "path": "midi/z5801-dream-pop-guitar-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0fd711766f4f9ef37cbcbd8881600615a70ab2ad04b012a95c307ef95a5ac9d0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dream-pop-guitar-motifs-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "feaeb955cfbff8f5ea764f9cc9fe7e53abf54a46d5adbe9695d8e731a08faa79"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3985,
-      "sha256": "cd7cf9603984f51d398817e0360b890e5eccd4dc9c6f48507c34159db8e43a87"
+      "bytes": 4100,
+      "sha256": "35fe6f24944aa0e31709047a5b8734d76db481ce4535e32e53fdc3ef3d592c9a"
     },
     {
       "path": "social/instagram/caption.txt",
